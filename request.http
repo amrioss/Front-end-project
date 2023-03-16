@@ -1,0 +1,11 @@
+### Rick and Morty API
+
+GET https://rickandmortyapi.com/api/character/108
+
+### MusicBrainz
+
+GET http://musicbrainz.org/ws/2/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da?fmt=json
+
+### get weather
+
+GET http://www.7timer.info/bin/api.pl?lon=113.17&lat=23.09&product=astro&output=json
